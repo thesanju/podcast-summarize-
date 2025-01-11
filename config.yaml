@@ -1,17 +1,14 @@
 credentials:
   usernames:
-    sanju:
-      email: sanju@gmail.com
-      name: sanju
-      password: $2b$12$NX3/5WNiSa3K/TlxEl752OMtPx5Es3KP4OXaWE7Y2p6UBPH5ZPj9i # To be replaced with hashed password
-    jim:
-      email: jim@gmail.com
-      name:  Jim
-      password:  $2b$12$2/T1RPz7/N9JpRtPRTjsJu5t38P7az5DSQ6XkmdFpoAJL4z4vNfmy
+    nithin:
+      email: nitin@gmail.com
+      name: nithin
+      password: abc
+    pramod:
+      email: pramod@gmail.com
+      name:  pramod
+      password:  abc
 cookie:
   expiry_days: 30
   key: random_signature_key # Must be string
   name: random_cookie_name
-preauthorized:
-  emails:
-  - melsby@gmail.com
