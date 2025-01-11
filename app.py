@@ -5,7 +5,7 @@ import yaml
 import streamlit_authenticator as stauth
 from yaml.loader import SafeLoader
 import tempfile  # For handling uploaded audio files
-from pydub import AudioSegment  # To convert audio formats if needed
+# from pydub import AudioSegment  # To convert audio formats if needed
 
 st.set_page_config(
     page_title="Blender",
